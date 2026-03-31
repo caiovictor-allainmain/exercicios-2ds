@@ -1,0 +1,17 @@
+.concluida {
+    text-decoration: line-through;
+    color: gray;
+    background-color: #d3ffd3;
+}
+
+li button {
+    background: red;
+    color: white;
+    border: none;
+    padding: 5px;
+    cursor: pointer;
+}
+
+#aviso {
+    color: red;
+}
