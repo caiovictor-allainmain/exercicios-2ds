@@ -82,13 +82,13 @@ O projeto deverá ser apresentado ao final do 1º semestre, na presença dos pro
 
 ---
 
-## NÍVEL PARA DESENVOLVIMENTO DAS PROJETOS DE PROGRAMAÇÃO WEB
+## NÍVEL PARA DESENVOLVIMENTO DOS PROJETOS DE PROGRAMAÇÃO WEB
 O nível foi baseado na entrega de projetos de exercício e projetos pessoais do 1º bimestre em Programação Web.
 
 - Nível 1: Alunos que entregaram até 2 projetos - até o último prazo - e fecharam no mínimo as notas 1 e 4 no projeto pessoal.
 - Nível 2: Aluno que entregaram de 3 à 4 projetos - até o último prazo - e fecharam no mínimo as notas 2 e 3 no projeto pessoal.
 
-A partir do dia 29-abr, os alunos deverão desenvolver os projetos pessoais de acordo com o seu nível da tabela abaixo. O nível poderá mudar a qualquer momento dependendo da evolução.
+A partir do dia 29-abr, os alunos deverão desenvolver os projetos de acordo com o seu nível da tabela abaixo. O nível poderá mudar a qualquer momento dependendo da evolução.
 
 |Nível 1          | Nível 2             |
 |-----------------|---------------------|
