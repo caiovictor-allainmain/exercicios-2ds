@@ -100,6 +100,8 @@ Agora você deve representar o sistema.
 
 ![image2.png](./img/image2.png)
 
+#### 🧠 LEMBRETE: Esses acima são modelos para você se basear no momento que for desenhar a arquitetura nas ferramentas de apoio, **NÃO É PARA FAZER IGUAL**!!!
+
 Você deve desenhar em uma das ferramentas de apoio a arquitetura:
 
 - Usuários (clientes/funcionários)
@@ -107,7 +109,6 @@ Você deve desenhar em uma das ferramentas de apoio a arquitetura:
 - Banco de dados
 - Fluxo de comunicação
 
-#### 🧠 LEMBRETE: Esses acima são modelos para você se basear no momento que for desenhar a arquitetura nas ferramentas de apoio, **NÃO É PARA FAZER IGUAL**!!!
 
 ## 🔹 ETAPA 3 — Organização dos Componentes
 
