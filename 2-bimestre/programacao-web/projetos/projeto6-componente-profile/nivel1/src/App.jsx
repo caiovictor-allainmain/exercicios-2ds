@@ -24,14 +24,20 @@ const funcionarios = [
 
 export default function App() {
   return (
+       
     <div className="profile-grid">
+      
+        <h1>Usuários do sistema</h1>
+
       {funcionarios.map((funcionario) => (
         <Profile
+
           key={funcionario.nome}
-          noome={funcionario.nome}
+          nome={funcionario.nome}
           idade={funcionario.idade}
           profissao={funcionario.profissao}
           foto={funcionario.foto}
+          
         />
       )
     )

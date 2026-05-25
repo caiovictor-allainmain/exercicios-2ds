@@ -6,7 +6,7 @@ import { describe, test, expect } from "vitest"
 
 // Lendo arquivo CSS
 const css = fs.readFileSync(
-  "src/styles/profile.css",
+  "src/styles/Profile.css",
   "utf8"
 )
 
