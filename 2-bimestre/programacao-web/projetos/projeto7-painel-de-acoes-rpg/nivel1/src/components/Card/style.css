@@ -1,0 +1,37 @@
+.card {
+  background-color: #fff;
+  border: 0.5px solid #ddd;
+  border-radius: 12px;
+  max-width: 680px;
+  margin: 0 auto 16px;
+}
+
+.card-personagem {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  padding: 28px 32px;
+}
+
+.card-status {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 24px 32px;
+  text-align: left;
+}
+
+.card-acoes {
+  display: flex;
+  gap: 12px;
+  padding: 20px 32px;
+  justify-content: center;
+}
+
+.avatar {
+  width: 140px;
+  height: 140px;
+  border-radius: 8px;
+  object-fit: cover;
+  flex-shrink: 0;
+}
