@@ -8,9 +8,7 @@ export default function App() {
 
   const adicionarHeroi = useCallback((nome) => {
     const nomeLimpo = nome.trim();
-
     if (!nomeLimpo) return;
-
     setHerois((prevHerois) => {
       if (prevHerois.includes(nomeLimpo)) return prevHerois;
       return [...prevHerois, nomeLimpo];
@@ -20,9 +18,8 @@ export default function App() {
   return (
     <main className="container">
       <h1>Cadastro de Heróis</h1>
-
       <FormularioHeroi onCadastrar={adicionarHeroi} />
       <ListaHerois herois={herois} />
     </main>
-  )
+  );
 }
