@@ -11,4 +11,4 @@ const projeto = {
   }
 }
 
-module.exports = { projeto }
+module.exports = projeto 
