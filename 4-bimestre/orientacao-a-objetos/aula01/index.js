@@ -3,12 +3,12 @@ const projeto = {
   scripts: ["test", "start", "dev"],
   
   rodar(script) {
-    return `Executando: npm run ${script}`;
+    return `Executando: npm run ${script}`
   },
   
   temScript(script) {
-    return this.scripts.includes(script);
+    return this.scripts.includes(script)
   }
-};
+}
 
-module.exports = projeto;
+module.exports = { projeto }
