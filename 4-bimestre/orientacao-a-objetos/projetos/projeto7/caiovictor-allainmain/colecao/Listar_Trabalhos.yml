@@ -1,0 +1,8 @@
+name: "Listar Trabalhos"
+type: "http"
+request:
+  url: "http://localhost:3000/trabalhos"
+  method: "GET"
+  headers: []
+  body:
+    mode: "none"
